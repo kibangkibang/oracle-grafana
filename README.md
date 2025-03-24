@@ -3,7 +3,7 @@
 English : Plugin for Oracl-grafana, I've encounterd a error 'the server use charset with id: 846'
 I've fixed this error through a go-ora 2.8.24 plug-in update 
 
-한국어 : 'the server use charset with id: 846' 이 오류가 발생해서 go-ora 2.8.24 의존성을 업데이트 하고 리빌드를 통해서
+Korean : 'the server use charset with id: 846' 이 오류가 발생해서 go-ora 2.8.24 의존성을 업데이트 하고 리빌드를 통해서
 이 오류를 해결했습니다. 
 
 # Oracle Grafana data source plugin
